@@ -1,3 +1,5 @@
+![](https://github.com/HankB-o-t/HankB-o-t/blob/main/Java%20Code.png)
+
 # Introduction
 
 Hello! U can see my projects on my github account, or probably down here!
