@@ -18,4 +18,8 @@ Don't try to DM me to my discord
 
 ## My favorite languages:
 
-- Python & JavaScript
+- Python
+
+- JavaScript
+
+- A bit of Java
