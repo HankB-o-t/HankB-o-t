@@ -24,6 +24,24 @@ Don't try to DM me to my discord
 
 ##### 4. Sublime Text (this thing is more like my python text edtior)
 
+## Some Extensions (and theme) that i use for VSCode:
+- GitLens (for github things)
+- GitHub Repositories (i usually use that)
+- PolaCode (for screenshots)
+- Language Support Extensions (like C/C++ or Python extensions from microsoft and support for frameworks like vetur for vue)
+- Live Server (For testing Vue)
+- TabNine (SUPER USEFUL)
+- Discord Presence (changes discord status activity)
+
+### Themes
+- One Dark Pro (it's beautiful)
+- Material Icons Theme (Icons++)
+
+
+## My Favorite FrameWork:
+- Vue
+
+
 ## My favorite languages:
 
 - Python
