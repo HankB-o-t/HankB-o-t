@@ -14,9 +14,15 @@ Don't try to DM me to my discord
 
 - Some simple Programs
 
-## My favorite editor:
+## My editors top list:
 
-- Visual Studio Code
+### 1. Visual Studio Code
+
+### 2. NeoVim
+
+#### 3. Atom
+
+##### 4. Sublime Text (this thing is more like my python text edtior)
 
 ## My favorite languages:
 
