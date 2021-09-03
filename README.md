@@ -12,6 +12,8 @@ Don't try to DM me to my discord
 
 - Web-Apps
 
+- Some simple Programs
+
 ## My favorite editor:
 
 - Visual Studio Code
@@ -21,6 +23,8 @@ Don't try to DM me to my discord
 - Python
 
 - JavaScript
+
+- C or C++ (but more C)
 
 - A bit of Java
 
