@@ -35,6 +35,7 @@ Don't try to DM me to my discord
 
 ### Themes
 - One Dark Pro (it's beautiful)
+- GruvBox (more for vim)
 - Material Icons Theme (Icons++)
 
 
