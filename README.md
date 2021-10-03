@@ -49,8 +49,6 @@ Don't try to DM me to my discord
 
 - JavaScript
 
-- C or C++ (but more C)
-
-- A bit of Java
+- A bit: Java and C/C++
 
 ![](https://github.com/HankB-o-t/HankB-o-t/blob/main/Java%20Code.png)
