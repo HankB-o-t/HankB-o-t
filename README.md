@@ -1,56 +1,25 @@
-# Introduction
+# Introduccion
 
-Hello! U can see my projects on my github account, or probably down here!
+Hola pa. Entraste a mi github.
 
-Don't try to DM me to my discord
+Puro codigo feo hay aca 
 
-## I Program:
+## Que hago:
 
-- Discord Bots
+  - Bots para tu discord ( cada muerte de obispo )
+  - Backends de paginas ( Talvez Frontend )
+  - Proyectos aleatorios
+  
+## Que uso:
+  - Neovim
 
-- Websites
+## Tuneo del neovim:
+  - Las tipicas de LSP ( lenguajes y eso )
+  - NvimTree ( Arbolito de archivos )
+  - barbar ( Alternar entre archivos 1 )
+  - Telescope ( Alternar entre archivos 2 )
+  - Bufferline ( Lo que esta abajo del INSERT y eso )
+  - alpha-nvim ( Inicio Fachero )
+  - onedark ( piola )
 
-- Web-Apps
-
-- Some simple Programs
-
-## My editors top list:
-
-### 1. Visual Studio Code
-
-### 2. NeoVim
-
-#### 3. Atom
-
-##### 4. Sublime Text (this thing is more like my python text edtior)
-
-## Some Extensions (and theme) that i use for VSCode:
-- GitLens (for github things)
-- GitHub Repositories (i usually use that)
-- PolaCode (for screenshots)
-- Language Support Extensions (like C/C++ or Python extensions from microsoft and support for frameworks like vetur for vue)
-- Live Server (For testing Vue)
-- TabNine (SUPER USEFUL)
-- Discord Presence (changes discord status activity)
-
-### Themes
-- One Dark Pro (it's beautiful)
-- GruvBox (more for vim)
-- Material Icons Theme (Icons++)
-
-
-## My Favorite FrameWork:
-- Vue
-
-
-## My favorite languages:
-
-- Python
-
-- JavaScript
-
-- C#
-
-- A bit: Java and C/C++
-
-![](https://github.com/HankB-o-t/HankB-o-t/blob/main/Java%20Code.png)
+## Aca solo rust pa.
